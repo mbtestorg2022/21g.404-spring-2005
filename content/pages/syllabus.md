@@ -17,11 +17,60 @@ This is a 4-skills course, which means you will be working on improving your ski
 Aufgaben
 --------
 
-| _Lesen_: | See [readings]({{< baseurl >}}/pages/readings) for material to be covered in class. |
-| _Lernen_: | Daily vocabuary from the readings and from the chapters assigned in _Reden-Mitreden-Dazwischenreden_ (see note on "Kladde").  {{< br >}}  {{< br >}}The grammar material covered in Wells' _Handbuch_ and in grammar handouts. Additional individual review may be necessary. |
-| _Schreiben_: | In your "Kladde", daily: a 4-sentence summary of each reading assignment, plus at least 1 discussion question. Enter vocabulary from class list. (See below under "Erwerb neuen Vokabulars.")  {{< br >}}  {{< br >}}Occasional worksheets and grammar exercises to be handed in as indicated.  {{< br >}}  {{< br >}}Four essays during the term (2-3 pages in length). Please type ca. 400 words/page, double-spaced, leave 1+1/4" margins. You will revise the first 3 essays following a first reading by the instructor. Both versions will be graded. The fourth essay will be submitted in its final version only. |
-| _Zuhören_: | In the LLARC you will listen to conversations between native speakers on audio cassettes, selected video material and work with the interactive hypermedia _Berliner sehen_. The cassette for _Reden-Mitreden-Dazwischenreden_ that comes with the book you can also listen to at home. |
-| _Mündliches_: | Discussion of texts, oral reports on current events, 10-minute oral presentation. 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+_Lesen_:
+{{< tdclose >}}
+{{< tdopen >}}
+See [readings]({{< baseurl >}}/pages/readings) for material to be covered in class.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_Lernen_:
+{{< tdclose >}}
+{{< tdopen >}}
+Daily vocabuary from the readings and from the chapters assigned in _Reden-Mitreden-Dazwischenreden_ (see note on "Kladde").  
+  
+The grammar material covered in Wells' _Handbuch_ and in grammar handouts. Additional individual review may be necessary.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_Schreiben_:
+{{< tdclose >}}
+{{< tdopen >}}
+In your "Kladde", daily: a 4-sentence summary of each reading assignment, plus at least 1 discussion question. Enter vocabulary from class list. (See below under "Erwerb neuen Vokabulars.")  
+  
+Occasional worksheets and grammar exercises to be handed in as indicated.  
+  
+Four essays during the term (2-3 pages in length). Please type ca. 400 words/page, double-spaced, leave 1+1/4" margins. You will revise the first 3 essays following a first reading by the instructor. Both versions will be graded. The fourth essay will be submitted in its final version only.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_Zuhören_:
+{{< tdclose >}}
+{{< tdopen >}}
+In the LLARC you will listen to conversations between native speakers on audio cassettes, selected video material and work with the interactive hypermedia _Berliner sehen_. The cassette for _Reden-Mitreden-Dazwischenreden_ that comes with the book you can also listen to at home.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_Mündliches_:
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion of texts, oral reports on current events, 10-minute oral presentation.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Texte
 -----
